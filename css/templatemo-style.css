@@ -1,0 +1,39 @@
+
+
+.popular-places .owl-nav {
+  display: none;
+}
+
+.popular-places .owl-dots {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.popular-places .owl-dots .owl-dot span  {
+  width: 15px;
+  height: 15px;
+  background-color: #cdcdcd!important;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 0 3px;
+}
+
+.fondo2
+{
+	background: gray;
+}
+.tito
+{
+  padding-top: 10px;
+  padding-left: 5px;
+  font-size: 25px;
+  font-weight: 800;
+  color: #000;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  
+}
+
+
+  
+
